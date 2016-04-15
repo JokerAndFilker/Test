@@ -22,6 +22,10 @@
     NSLog(@"1.0版本结束");
 }
 
+- (void)fixeBug {
+    NSLog(@"1.0版本bug修复完毕");
+}
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
