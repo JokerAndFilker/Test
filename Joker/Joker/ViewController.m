@@ -20,6 +20,7 @@
     
     NSLog(@"1.0版本开始");
     NSLog(@"1.0版本结束");
+    NSLog(@"2.0版本开始");
 }
 
 - (void)fixeBug {
