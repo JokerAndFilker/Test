@@ -24,6 +24,7 @@
 
 - (void)fixeBug {
     NSLog(@"1.0版本bug修复完毕");
+    NSLog(@"1.1版本已经备份");
 }
 
 - (void)didReceiveMemoryWarning {
